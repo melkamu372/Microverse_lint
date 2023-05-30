@@ -1,0 +1,23 @@
+{
+  "name": "microverse_lint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melkamu372/Microverse_lint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melkamu372/Microverse_lint/issues"
+  },
+  "homepage": "https://github.com/melkamu372/Microverse_lint#readme",
+  "description": "",
+  "devDependencies": {
+    "hint": "^7.1.8"
+  }
+}
